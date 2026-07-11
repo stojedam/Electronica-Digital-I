@@ -8,6 +8,14 @@ ifeq ($(TARGET), Paridad)
            RegistroA.v \
            Paridad.v \
            CaminoDeDatos.v
+else ifeq ($(TARGET), RegistroA)
+    OBJS = RegistroA.v
+else ifeq ($(TARGET), ContadorUno)
+    OBJS = ContadorUno.v
+else ifeq ($(TARGET), ContadorPosicion)
+    OBJS = ContadorPosicion.v
+else ifeq ($(TARGET), Control)
+    OBJS = Control.v
 else
     OBJS = ${TARGET}.v
 endif
