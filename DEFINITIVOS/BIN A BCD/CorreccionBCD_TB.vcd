@@ -1,0 +1,39 @@
+$date
+	Mon Jul 13 13:50:26 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module CorreccionBCD_TB $end
+$var wire 20 ! BCDCorregido [19:0] $end
+$var reg 36 " Bin [35:0] $end
+$scope module uut $end
+$var wire 36 # Bin [35:0] $end
+$var reg 20 $ BCDCorregido [19:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b10010001101001000 $
+b100100011010001010000000000000000 #
+b100100011010001010000000000000000 "
+b10010001101001000 !
+$end
+#100
+b10001001101010111100 !
+b10001001101010111100 $
+b10101100111100010010000000000000000 "
+b10101100111100010010000000000000000 #
+#200
+b11001100110011001100 !
+b11001100110011001100 $
+b100110011001100110010000000000000000 "
+b100110011001100110010000000000000000 #
+#300

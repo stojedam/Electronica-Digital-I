@@ -1,0 +1,155 @@
+$date
+	Mon Jul 13 13:55:11 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RegC_TB $end
+$var wire 5 ! C [4:0] $end
+$var reg 1 " DEC $end
+$var reg 1 # LD $end
+$var reg 1 $ clk $end
+$var reg 1 % rst $end
+$scope module uut $end
+$var wire 1 " DEC $end
+$var wire 1 # LD $end
+$var wire 1 $ clk $end
+$var wire 1 % rst $end
+$var reg 5 & C [4:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx &
+1%
+0$
+0#
+0"
+bx !
+$end
+#20
+b10000 !
+b10000 &
+1#
+0%
+1$
+#40
+0$
+#60
+1"
+0#
+1$
+#80
+0$
+#100
+b1111 !
+b1111 &
+1$
+#120
+0$
+#140
+b1110 !
+b1110 &
+1$
+#160
+0$
+#180
+b1101 !
+b1101 &
+1$
+#200
+0$
+#220
+b1100 !
+b1100 &
+1$
+#240
+0$
+#260
+b1011 !
+b1011 &
+1$
+#280
+0$
+#300
+b1010 !
+b1010 &
+1$
+#320
+0$
+#340
+b1001 !
+b1001 &
+1$
+#360
+0$
+#380
+b1000 !
+b1000 &
+1$
+#400
+0$
+#420
+b111 !
+b111 &
+1$
+#440
+0$
+#460
+b110 !
+b110 &
+1$
+#480
+0$
+#500
+b101 !
+b101 &
+1$
+#520
+0$
+#540
+b100 !
+b100 &
+1$
+#560
+0$
+#580
+b11 !
+b11 &
+1$
+#600
+0$
+#620
+b10 !
+b10 &
+1$
+#640
+0$
+#660
+b1 !
+b1 &
+1$
+#680
+0$
+#700
+b0 !
+b0 &
+0"
+1$
+#720
+0$
+#740
+1$
+#760
+0$
+#780
+1$
+#800
+0$

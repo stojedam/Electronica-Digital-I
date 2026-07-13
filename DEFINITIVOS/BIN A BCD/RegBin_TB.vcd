@@ -1,0 +1,106 @@
+$date
+	Mon Jul 13 13:52:54 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RegBin_TB $end
+$var wire 36 ! Bin [35:0] $end
+$var reg 1 " ADD $end
+$var reg 20 # BCDCorregido [19:0] $end
+$var reg 16 $ Binario [15:0] $end
+$var reg 1 % LD $end
+$var reg 1 & SHIFT $end
+$var reg 1 ' clk $end
+$var reg 1 ( rst $end
+$scope module uut $end
+$var wire 1 " ADD $end
+$var wire 20 ) BCDCorregido [19:0] $end
+$var wire 16 * Binario [15:0] $end
+$var wire 1 % LD $end
+$var wire 1 & SHIFT $end
+$var wire 1 ' clk $end
+$var wire 1 ( rst $end
+$var reg 36 + Bin [35:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx +
+b11000000111001 *
+b10010001101000101 )
+1(
+0'
+0&
+0%
+b11000000111001 $
+b10010001101000101 #
+0"
+bx !
+$end
+#20
+b11000000111001 !
+b11000000111001 +
+1%
+0(
+1'
+#40
+0'
+#60
+1&
+0%
+1'
+#80
+0'
+#100
+b110000001110010 !
+b110000001110010 +
+1'
+#120
+0'
+#140
+b1100000011100100 !
+b1100000011100100 +
+1'
+#160
+0'
+#180
+b11000000111001000 !
+b11000000111001000 +
+1'
+#200
+0'
+#220
+b110000001110010000 !
+b110000001110010000 +
+1'
+#240
+0'
+#260
+b100100011010001010000001110010000 !
+b100100011010001010000001110010000 +
+1"
+0&
+1'
+#280
+0'
+#300
+0"
+1'
+#320
+0'
+#340
+1'
+#360
+0'
+#380
+1'
+#400
+0'

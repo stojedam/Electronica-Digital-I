@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 18:39:06 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/bin_bcd/ConversorBCD_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 18:37:45 2026"
+[dumpfile_size] 31096
+[savefile] "/home/steven/Trabajos-digital1/Correciones/bin_bcd/ConversorBCD_SIM.gtkw"
+[timestart] 2782
+[size] 2492 1361
+[pos] -27 -24
+*-10.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ConversorBCD_TB.
+[sst_width] 278
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@28
+ConversorBCD_TB.INIT
+@24
+ConversorBCD_TB.Binario[15:0]
+@23
+ConversorBCD_TB.BCD[19:0]
+@28
+ConversorBCD_TB.DONE
+[pattern_trace] 1
+[pattern_trace] 0
