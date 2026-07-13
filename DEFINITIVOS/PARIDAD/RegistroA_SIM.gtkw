@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 17:25:09 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/paridad/RegistroA_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 17:22:52 2026"
+[dumpfile_size] 1475
+[savefile] "/home/steven/Trabajos-digital1/Correciones/paridad/RegistroA_SIM.gtkw"
+[timestart] 20
+[size] 2492 1361
+[pos] -27 -24
+*-7.000000 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] RegistroA_TB.
+[sst_width] 278
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@28
+RegistroA_TB.Cargar
+RegistroA_TB.Corrimiento
+RegistroA_TB.EntradaBits[8:0]
+@29
+RegistroA_TB.uut.RegistroA[8:0]
+@28
+RegistroA_TB.LBS
+[pattern_trace] 1
+[pattern_trace] 0

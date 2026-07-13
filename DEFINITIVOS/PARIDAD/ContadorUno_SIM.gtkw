@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 17:14:08 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/paridad/ContadorUno_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 17:11:18 2026"
+[dumpfile_size] 1356
+[savefile] "/home/steven/Trabajos-digital1/Correciones/paridad/ContadorUno_SIM.gtkw"
+[timestart] 0
+[size] 2492 1361
+[pos] -27 -24
+*-6.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ContadorUno_TB.
+[sst_width] 278
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@22
+ContadorUno_TB.uut.ContadorUno[3:0]
+@28
+ContadorUno_TB.uut.Cargar
+ContadorUno_TB.uut.Paridad
+[pattern_trace] 1
+[pattern_trace] 0

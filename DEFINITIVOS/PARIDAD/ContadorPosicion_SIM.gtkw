@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 17:10:53 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/paridad/ContadorPosicion_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 17:09:18 2026"
+[dumpfile_size] 960
+[savefile] "/home/steven/Trabajos-digital1/Correciones/paridad/ContadorPosicion_SIM.gtkw"
+[timestart] 39
+[size] 2492 1361
+[pos] -27 -24
+*-6.100000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ContadorPosicion_TB.
+[sst_width] 278
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@28
+ContadorPosicion_TB.Cargar
+ContadorPosicion_TB.Decremento
+ContadorPosicion_TB.Cero
+@23
+ContadorPosicion_TB.uut.ContadorPosicion[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

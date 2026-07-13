@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 17:07:53 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/paridad/Paridad_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 17:03:25 2026"
+[dumpfile_size] 17457
+[savefile] "/home/steven/Trabajos-digital1/Correciones/paridad/Paridad_SIM.gtkw"
+[timestart] 0
+[size] 2492 1361
+[pos] -27 -24
+*-9.100000 501 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Paridad_TB.
+[sst_width] 278
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@28
+Paridad_TB.INIT
+Paridad_TB.EntradaBits[8:0]
+@22
+Paridad_TB.Cantidad[3:0]
+@28
+Paridad_TB.Paridad
+Paridad_TB.DONE
+[pattern_trace] 1
+[pattern_trace] 0
