@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 18:10:04 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/multiplicador/RegB_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 18:08:57 2026"
+[dumpfile_size] 837
+[savefile] "/home/steven/Trabajos-digital1/Correciones/multiplicador/RegB_SIM.gtkw"
+[timestart] 0
+[size] 2492 1361
+[pos] -27 -24
+*-5.500000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] RegB_TB.
+[sst_width] 278
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@28
+RegB_TB.uut.B[7:0]
+RegB_TB.uut.regB[7:0]
+@29
+RegB_TB.uut.LSB
+[pattern_trace] 1
+[pattern_trace] 0

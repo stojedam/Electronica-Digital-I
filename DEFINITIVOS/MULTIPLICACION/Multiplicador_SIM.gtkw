@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 18:02:05 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/multiplicador/Multiplicador_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 17:59:58 2026"
+[dumpfile_size] 18707
+[savefile] "/home/steven/Trabajos-digital1/Correciones/multiplicador/Multiplicador_SIM.gtkw"
+[timestart] 0
+[size] 2492 1361
+[pos] -27 -24
+*-9.200000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Multiplicador_TB.
+[sst_width] 278
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@24
+Multiplicador_TB.correr.a_val[7:0]
+Multiplicador_TB.correr.b_val[7:0]
+Multiplicador_TB.P[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
