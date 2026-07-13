@@ -1,0 +1,45 @@
+$date
+	Mon Jul 13 13:21:09 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Comp1_TB $end
+$var wire 1 ! RESIDUOCOMP $end
+$var reg 8 " Divisor [7:0] $end
+$var reg 9 # Residuo [8:0] $end
+$scope module uut $end
+$var wire 8 $ Divisor [7:0] $end
+$var wire 9 % Residuo [8:0] $end
+$var wire 1 ! RESIDUOCOMP $end
+$var parameter 32 & N $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1000 &
+$end
+#0
+$dumpvars
+b101 %
+b1010 $
+b101 #
+b1010 "
+0!
+$end
+#20
+1!
+b1010 #
+b1010 %
+#40
+b10100 #
+b10100 %
+#60
+0!
+b0 #
+b0 %
+#80

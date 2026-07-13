@@ -1,0 +1,41 @@
+$date
+	Mon Jul 13 13:23:01 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Comp2_TB $end
+$var wire 1 ! ZERO $end
+$var reg 4 " count [3:0] $end
+$scope module uut $end
+$var wire 4 # count [3:0] $end
+$var wire 1 ! ZERO $end
+$var parameter 32 $ CW $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 $
+$end
+#0
+$dumpvars
+b1000 #
+b1000 "
+0!
+$end
+#20
+b11 "
+b11 #
+#40
+1!
+b0 "
+b0 #
+#60
+0!
+b1 "
+b1 #
+#80

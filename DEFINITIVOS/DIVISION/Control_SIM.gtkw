@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 18:26:14 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/divisor/Control_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 18:24:48 2026"
+[dumpfile_size] 2329
+[savefile] "/home/steven/Trabajos-digital1/Correciones/divisor/Control_SIM.gtkw"
+[timestart] 0
+[size] 2492 1361
+[pos] -27 -24
+*-6.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Control_TB.
+[sst_width] 278
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@28
+Control_TB.uut.INIT
+Control_TB.uut.RESIDUOCOMP
+Control_TB.uut.ZERO
+@29
+Control_TB.DONE
+[pattern_trace] 1
+[pattern_trace] 0

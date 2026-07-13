@@ -1,0 +1,98 @@
+$date
+	Mon Jul 13 13:31:42 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RegResiduo_TB $end
+$var wire 9 ! Residuo [8:0] $end
+$var reg 9 " DivisorComp [8:0] $end
+$var reg 1 # LD $end
+$var reg 1 $ SETRESIDUO $end
+$var reg 1 % SHIFT $end
+$var reg 1 & ShiftIn $end
+$var reg 1 ' clk $end
+$scope module uut $end
+$var wire 9 ( DivisorComp [8:0] $end
+$var wire 1 # LD $end
+$var wire 9 ) Residuo [8:0] $end
+$var wire 1 $ SETRESIDUO $end
+$var wire 1 % SHIFT $end
+$var wire 1 & ShiftIn $end
+$var wire 1 ' clk $end
+$var parameter 32 * N $end
+$var reg 9 + reg_residuo [8:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1000 *
+$end
+#0
+$dumpvars
+bx +
+bx )
+b111111011 (
+0'
+0&
+0%
+0$
+0#
+b111111011 "
+bx !
+$end
+#20
+b0 !
+b0 )
+b0 +
+1#
+1'
+#40
+0'
+#60
+1%
+1&
+0#
+1'
+#80
+0'
+#100
+b111111011 !
+b111111011 )
+b111111011 +
+1$
+0%
+1'
+#120
+0'
+#140
+b111110110 !
+b111110110 )
+b111110110 +
+1%
+0&
+0$
+1'
+#160
+0'
+#180
+b111101100 !
+b111101100 )
+b111101100 +
+1'
+#200
+0'
+#220
+b111011000 !
+b111011000 )
+b111011000 +
+0%
+1'
+#240
+0'
+#260
+1'

@@ -1,0 +1,183 @@
+$date
+	Mon Jul 13 13:24:48 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Control_TB $end
+$var wire 1 ! SHIFT $end
+$var wire 1 " SETRESIDUO $end
+$var wire 1 # SETCOCIENTE $end
+$var wire 1 $ LD $end
+$var wire 1 % DONE $end
+$var wire 1 & DEC $end
+$var reg 1 ' INIT $end
+$var reg 1 ( RESIDUOCOMP $end
+$var reg 1 ) ZERO $end
+$var reg 1 * clk $end
+$var reg 1 + rst $end
+$scope module uut $end
+$var wire 1 ' INIT $end
+$var wire 1 ( RESIDUOCOMP $end
+$var wire 1 ) ZERO $end
+$var wire 1 * clk $end
+$var wire 1 + rst $end
+$var parameter 3 , Check1 $end
+$var parameter 3 - Check2 $end
+$var parameter 3 . Counterdec $end
+$var parameter 3 / End $end
+$var parameter 3 0 Setco $end
+$var parameter 3 1 Setcodi $end
+$var parameter 3 2 Shift $end
+$var parameter 3 3 Start $end
+$var reg 1 & DEC $end
+$var reg 1 % DONE $end
+$var reg 1 $ LD $end
+$var reg 1 # SETCOCIENTE $end
+$var reg 1 " SETRESIDUO $end
+$var reg 1 ! SHIFT $end
+$var reg 3 4 STATE [2:0] $end
+$var reg 160 5 estado_nombre [160:1] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b0 3
+b10 2
+b101 1
+b100 0
+b111 /
+b110 .
+b11 -
+b1 ,
+$end
+#0
+$dumpvars
+b101001101010100010000010101001001010100 5
+b0 4
+1+
+0*
+0)
+0(
+0'
+0&
+0%
+1$
+0#
+0"
+0!
+$end
+#20
+0+
+1*
+#40
+0*
+#60
+0$
+b10000110100100001000101010000110100101100110001 5
+b1 4
+1'
+1*
+#80
+0*
+#100
+b101001101001000010010010100011001010100 5
+1!
+b10 4
+0'
+1*
+#120
+0*
+#140
+0!
+b10000110100100001000101010000110100101100110010 5
+b11 4
+1*
+#160
+0*
+#180
+b1010011010001010101010001000011010011110100010001001001 5
+1"
+1#
+b101 4
+1(
+1*
+#200
+0*
+#220
+1&
+0"
+0#
+b1000011010011110101010101001110010101000100010101010010010001000100010101000011 5
+b110 4
+1*
+#240
+0*
+#260
+b10000110100100001000101010000110100101100110001 5
+0&
+b1 4
+1*
+#280
+0*
+#300
+1!
+b101001101001000010010010100011001010100 5
+b10 4
+0(
+1*
+#320
+0*
+#340
+b10000110100100001000101010000110100101100110010 5
+0!
+b11 4
+1*
+#360
+0*
+#380
+b101001101000101010101000100001101001111 5
+b100 4
+1*
+#400
+0*
+#420
+b1000011010011110101010101001110010101000100010101010010010001000100010101000011 5
+1&
+b110 4
+1*
+#440
+0*
+#460
+0&
+b10000110100100001000101010000110100101100110001 5
+b1 4
+1*
+#480
+0*
+#500
+b10001010100111001000100 5
+1%
+b111 4
+1)
+1*
+#520
+0*
+#540
+0%
+1$
+b101001101010100010000010101001001010100 5
+b0 4
+1*
+#560
+0*
+#580
+1*
+#600
+0*
+#620
+1*

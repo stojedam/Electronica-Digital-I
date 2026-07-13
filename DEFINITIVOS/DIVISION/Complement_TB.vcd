@@ -1,0 +1,46 @@
+$date
+	Mon Jul 13 13:23:50 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Complement_TB $end
+$var wire 9 ! DivisorComp [8:0] $end
+$var reg 8 " Divisor [7:0] $end
+$scope module uut $end
+$var wire 8 # Divisor [7:0] $end
+$var wire 9 $ DivisorComp [8:0] $end
+$var parameter 32 % N $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1000 %
+$end
+#0
+$dumpvars
+b111111011 $
+b101 #
+b101 "
+b111111011 !
+$end
+#20
+b100111000 !
+b100111000 $
+b11001000 "
+b11001000 #
+#40
+b0 !
+b0 $
+b0 "
+b0 #
+#60
+b100000001 !
+b100000001 $
+b11111111 "
+b11111111 #
+#80
