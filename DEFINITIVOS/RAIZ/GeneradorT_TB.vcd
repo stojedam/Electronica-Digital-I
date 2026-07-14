@@ -1,0 +1,44 @@
+$date
+	Mon Jul 13 22:46:52 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module GeneradorT_TB $end
+$var wire 16 ! T [15:0] $end
+$var reg 8 " Raiz [7:0] $end
+$scope module uut $end
+$var wire 8 # Raiz [7:0] $end
+$var wire 16 $ T [15:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1 $
+b0 #
+b0 "
+b1 !
+$end
+#20
+b101 !
+b101 $
+b1 "
+b1 #
+#40
+b111101 !
+b111101 $
+b1111 "
+b1111 #
+#60
+b1111111101 !
+b1111111101 $
+b11111111 "
+b11111111 #
+#80

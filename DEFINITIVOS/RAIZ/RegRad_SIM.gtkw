@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Jul 14 03:51:29 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/raiz/RegRad_TB.vcd"
+[dumpfile_mtime] "Tue Jul 14 03:49:31 2026"
+[dumpfile_size] 1194
+[savefile] "/home/steven/Trabajos-digital1/Correciones/raiz/RegRad_SIM.gtkw"
+[timestart] 26
+[size] 2492 1361
+[pos] -27 -24
+*-5.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] RegRad_TB.
+[sst_width] 278
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@24
+RegRad_TB.uut.Rad[15:0]
+@25
+RegRad_TB.uut.Radicando[15:0]
+@28
+RegRad_TB.uut.shift
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Jul 14 03:53:30 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/raiz/RegResiduo_TB.vcd"
+[dumpfile_mtime] "Tue Jul 14 03:52:45 2026"
+[dumpfile_size] 1165
+[savefile] "/home/steven/Trabajos-digital1/Correciones/raiz/RegResiduo_SIM.gtkw"
+[timestart] 0
+[size] 2492 1361
+[pos] -27 -24
+*-4.906013 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] RegResiduo_TB.
+[sst_width] 278
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@24
+RegResiduo_TB.Residuo[15:0]
+RegResiduo_TB.ShiftIn[1:0]
+@25
+RegResiduo_TB.T[15:0]
+@28
+RegResiduo_TB.ld
+RegResiduo_TB.shift
+RegResiduo_TB.subtract
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,70 @@
+$date
+	Mon Jul 13 22:51:47 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RegRaiz_TB $end
+$var wire 8 ! Raiz [7:0] $end
+$var reg 1 " MAYORIGUAL $end
+$var reg 1 # clk $end
+$var reg 1 $ ld $end
+$var reg 1 % setraiz $end
+$scope module uut $end
+$var wire 1 " MAYORIGUAL $end
+$var wire 8 & Raiz [7:0] $end
+$var wire 1 # clk $end
+$var wire 1 $ ld $end
+$var wire 1 % setraiz $end
+$var reg 8 ' reg_raiz [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx '
+bx &
+0%
+0$
+0#
+0"
+bx !
+$end
+#20
+b0 !
+b0 &
+b0 '
+1$
+1#
+#40
+0#
+#60
+1%
+1"
+0$
+1#
+#80
+0#
+#100
+0"
+1#
+#120
+0#
+#140
+1"
+1#
+#160
+0#
+#180
+0%
+1#
+#200
+0#
+#220
+1#

@@ -1,0 +1,42 @@
+$date
+	Mon Jul 13 22:41:49 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Comp1_TB $end
+$var wire 1 ! MAYORIGUAL $end
+$var reg 16 " Residuo [15:0] $end
+$var reg 16 # T [15:0] $end
+$scope module uut $end
+$var wire 16 $ Residuo [15:0] $end
+$var wire 16 % T [15:0] $end
+$var wire 1 ! MAYORIGUAL $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b101 %
+b1010 $
+b101 #
+b1010 "
+1!
+$end
+#20
+0!
+b1010 #
+b1010 %
+b101 "
+b101 $
+#40
+1!
+b101 #
+b101 %
+#60

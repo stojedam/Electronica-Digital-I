@@ -1,0 +1,109 @@
+$date
+	Mon Jul 13 22:49:31 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RegRad_TB $end
+$var wire 16 ! Rad [15:0] $end
+$var reg 16 " Radicando [15:0] $end
+$var reg 1 # clk $end
+$var reg 1 $ ld $end
+$var reg 1 % shift $end
+$scope module uut $end
+$var wire 16 & Rad [15:0] $end
+$var wire 16 ' Radicando [15:0] $end
+$var wire 1 # clk $end
+$var wire 1 $ ld $end
+$var wire 1 % shift $end
+$var reg 16 ( reg_rad [15:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx (
+b1111101000 '
+bx &
+0%
+0$
+0#
+b1111101000 "
+bx !
+$end
+#20
+b1111101000 !
+b1111101000 &
+b1111101000 (
+1$
+1#
+#40
+0#
+#60
+1%
+0$
+1#
+#80
+0#
+#100
+b111110100000 !
+b111110100000 &
+b111110100000 (
+1#
+#120
+0#
+#140
+b11111010000000 !
+b11111010000000 &
+b11111010000000 (
+1#
+#160
+0#
+#180
+b1111101000000000 !
+b1111101000000000 &
+b1111101000000000 (
+1#
+#200
+0#
+#220
+b1110100000000000 !
+b1110100000000000 &
+b1110100000000000 (
+1#
+#240
+0#
+#260
+b1010000000000000 !
+b1010000000000000 &
+b1010000000000000 (
+1#
+#280
+0#
+#300
+b1000000000000000 !
+b1000000000000000 &
+b1000000000000000 (
+1#
+#320
+0#
+#340
+b0 !
+b0 &
+b0 (
+1#
+#360
+0#
+#380
+0%
+1#
+#400
+0#
+#420
+1#
