@@ -1,0 +1,102 @@
+$date
+	Mon Jul 13 18:57:31 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module RegBCD_TB $end
+$var wire 36 ! reg_out [35:0] $end
+$var reg 20 " bcd_in [19:0] $end
+$var reg 1 # clk $end
+$var reg 36 $ corrected_in [35:0] $end
+$var reg 1 % ld $end
+$var reg 1 & rst_n $end
+$var reg 1 ' shift $end
+$var reg 1 ( subtract $end
+$scope module dut $end
+$var wire 20 ) bcd_in [19:0] $end
+$var wire 1 # clk $end
+$var wire 36 * corrected_in [35:0] $end
+$var wire 1 % ld $end
+$var wire 1 & rst_n $end
+$var wire 1 ' shift $end
+$var wire 1 ( subtract $end
+$var reg 36 + reg_out [35:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 +
+b0 *
+b0 )
+0(
+0'
+0&
+0%
+b0 $
+0#
+b0 "
+b0 !
+$end
+#5
+1#
+#10
+b10010001101000101 "
+b10010001101000101 )
+1&
+0#
+#15
+1#
+#20
+1%
+0#
+#25
+b100100011010001010000000000000000 !
+b100100011010001010000000000000000 +
+1#
+#30
+b101010111100110111100001001000110100 $
+b101010111100110111100001001000110100 *
+0%
+0#
+#35
+1#
+#40
+1(
+0#
+#45
+b101010111100110111100001001000110100 !
+b101010111100110111100001001000110100 +
+1#
+#50
+0(
+0#
+#55
+1#
+#60
+1'
+0#
+#65
+b10101011110011011110000100100011010 !
+b10101011110011011110000100100011010 +
+1#
+#70
+0#
+#75
+b1010101111001101111000010010001101 !
+b1010101111001101111000010010001101 +
+1#
+#80
+0'
+0#
+#85
+1#
+#90
+0#

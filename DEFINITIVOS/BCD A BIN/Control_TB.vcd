@@ -1,0 +1,128 @@
+$date
+	Mon Jul 13 18:53:28 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Control_TB $end
+$var wire 1 ! subtract $end
+$var wire 1 " shift $end
+$var wire 1 # ld $end
+$var wire 1 $ done $end
+$var wire 1 % dec $end
+$var reg 1 & clk $end
+$var reg 1 ' init $end
+$var reg 1 ( rst_n $end
+$var reg 1 ) zero $end
+$scope module dut $end
+$var wire 1 & clk $end
+$var wire 1 ' init $end
+$var wire 1 ( rst_n $end
+$var wire 1 ) zero $end
+$var parameter 3 * S_CHECK1 $end
+$var parameter 3 + S_CHECK2 $end
+$var parameter 3 , S_FINAL $end
+$var parameter 3 - S_SHIFTDEC $end
+$var parameter 3 . S_START $end
+$var parameter 3 / S_SUBTRACT $end
+$var reg 1 % dec $end
+$var reg 1 $ done $end
+$var reg 1 # ld $end
+$var reg 3 0 next_state [2:0] $end
+$var reg 1 " shift $end
+$var reg 3 1 state [2:0] $end
+$var reg 1 ! subtract $end
+$upscope $end
+$scope task step $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 /
+b0 .
+b101 -
+b10 ,
+b11 +
+b1 *
+$end
+#0
+$dumpvars
+b0 1
+b0 0
+0)
+0(
+0'
+0&
+0%
+0$
+1#
+0"
+0!
+$end
+#5
+1&
+#6
+b1 0
+1'
+1(
+#10
+0&
+#15
+0#
+b11 0
+b1 1
+1&
+#16
+0'
+#20
+0&
+#25
+b100 0
+b11 1
+1&
+#30
+0&
+#35
+1!
+b101 0
+b100 1
+1&
+#40
+0&
+#45
+1%
+1"
+0!
+b1 0
+b101 1
+1&
+#50
+0&
+#55
+0%
+0"
+b11 0
+b1 1
+1&
+#56
+b10 0
+1)
+#60
+0&
+#65
+1$
+b0 0
+b10 1
+1&
+#70
+0&
+#75
+1#
+0$
+b0 1
+1&
+#76

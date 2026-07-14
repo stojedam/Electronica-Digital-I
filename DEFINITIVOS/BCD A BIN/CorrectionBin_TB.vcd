@@ -1,0 +1,92 @@
+$date
+	Mon Jul 13 18:55:50 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module CorrectionBin_TB $end
+$var wire 36 ! reg_corrected [35:0] $end
+$var reg 36 " reg_in [35:0] $end
+$scope module dut $end
+$var wire 36 # reg_in [35:0] $end
+$var wire 36 $ reg_corrected [35:0] $end
+$var wire 4 % d4_c [3:0] $end
+$var wire 4 & d4 [3:0] $end
+$var wire 4 ' d3_c [3:0] $end
+$var wire 4 ( d3 [3:0] $end
+$var wire 4 ) d2_c [3:0] $end
+$var wire 4 * d2 [3:0] $end
+$var wire 4 + d1_c [3:0] $end
+$var wire 4 , d1 [3:0] $end
+$var wire 4 - d0_c [3:0] $end
+$var wire 4 . d0 [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b100 .
+b100 -
+b11 ,
+b11 +
+b10 *
+b10 )
+b1 (
+b1 '
+b0 &
+b0 %
+b10010001101001010101111001101 $
+b10010001101001010101111001101 #
+b10010001101001010101111001101 "
+b10010001101001010101111001101 !
+$end
+#10
+b110 -
+b0 +
+b0 )
+b0 '
+b1001 .
+b0 ,
+b0 *
+b0 (
+b1100000000000000000 !
+b1100000000000000000 $
+b10010000000000000000 "
+b10010000000000000000 #
+#20
+b101 -
+b101 +
+b101 )
+b101 '
+b101 %
+b1000 .
+b1000 ,
+b1000 *
+b1000 (
+b1000 &
+b10101010101010101010001001000110100 !
+b10101010101010101010001001000110100 $
+b100010001000100010000001001000110100 "
+b100010001000100010000001001000110100 #
+#30
+b110 -
+b110 +
+b110 )
+b110 '
+b110 %
+b1001 .
+b1001 ,
+b1001 *
+b1001 (
+b1001 &
+b11001100110011001101111111111111111 !
+b11001100110011001101111111111111111 $
+b100110011001100110011111111111111111 "
+b100110011001100110011111111111111111 #
+#40

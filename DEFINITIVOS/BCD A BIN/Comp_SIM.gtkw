@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Jul 13 23:52:45 2026
+[*]
+[dumpfile] "/home/steven/Trabajos-digital1/Correciones/bcd_bin/Comp_TB.vcd"
+[dumpfile_mtime] "Mon Jul 13 23:51:50 2026"
+[dumpfile_size] 1339
+[savefile] "/home/steven/Trabajos-digital1/Correciones/bcd_bin/Comp_SIM.gtkw"
+[timestart] 30
+[size] 2492 1361
+[pos] -27 -24
+*-4.698822 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Comp_TB.
+[sst_width] 278
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@24
+Comp_TB.dut.c_in[4:0]
+@420
+Comp_TB.i
+@28
+Comp_TB.dut.zero
+[pattern_trace] 1
+[pattern_trace] 0
